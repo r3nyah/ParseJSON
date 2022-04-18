@@ -21,3 +21,11 @@ To access the REST api with Android's built-in code, a programmer has to create 
 This is not a simple process, especially if the request to the API requires security, special parameters to be added or even sending data other than sample
 text in the form of images to the server. If you use Async Task, it is certain that programmers will have difficulty in making programs. It would be better
 if all processes related to networking were handled by Retrofit. we will try to fetch data from http://www.omdbapi.com/?s=batman&apikey=2268147d.
+
+## ParseJSON Project
+Screen Shot | .gif
+--- | ---
+![SS] | ![gif]
+
+[SS]: https://github.com/r3nyah/Assets/blob/main/Assets/ParseJSON/Screenshot_2022-04-18-20-34-21-961_www.smktelkommlg.parsejson.jpg?raw=true
+[gif]: https://github.com/r3nyah/Assets/blob/main/Assets/ParseJSON/Screenrecorder-2022-04-18-20-34-11-117.gif?raw=true
