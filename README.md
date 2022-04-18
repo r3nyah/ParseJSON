@@ -27,5 +27,5 @@ Screen Shot | .gif
 --- | ---
 ![SS] | ![gif]
 
-[SS]: https://github.com/r3nyah/Assets/blob/main/Assets/ParseJSON/Screenshot_2022-04-18-20-34-21-961_www.smktelkommlg.parsejson.jpg?raw=true
-[gif]: https://github.com/r3nyah/Assets/blob/main/Assets/ParseJSON/Screenrecorder-2022-04-18-20-34-11-117.gif?raw=true
+[SS]: https://github.com/r3nyah/Assets/blob/main/Assets/DotaApi/Screenshot_2022-04-18-20-36-36-163_www.smktelkommlg.dotaapi.jpg?raw=true
+[gif]: https://github.com/r3nyah/Assets/blob/main/Assets/DotaApi/Screenrecorder-2022-04-18-20-42-00-891.gif
